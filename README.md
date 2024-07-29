@@ -6,14 +6,15 @@
 
 - 🔭 I’m currently interning with ConstructionCreds (a startup in Minnesota) and building their MVP.
 
-- 🌱 I’m currently learning about compilers and how to create them. **C++, LLVM**
+- 🌱 I’m currently learning about compilers and how to create them using C++ and LLVM.
 
-- 📫 How to reach me **sijaz@macalester.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sijaz2000/](https://www.linkedin.com/in/sijaz2000/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  
+- 📫 How to reach me **sijaz@macalester.edu**
+- 📄 Know about my experiences [https://www.linkedin.com/in/sijaz2000/](https://www.linkedin.com/in/sijaz2000/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
