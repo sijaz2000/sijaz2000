@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p>
   
-- 📫 How to reach me **sijaz@macalester.edu**
-- 📄 Know about my experiences [https://www.linkedin.com/in/sijaz2000/](https://www.linkedin.com/in/sijaz2000/)
+- 📫 How to reach me:  **sijaz@macalester.edu**
+- 📄 Know about my experiences:  [https://www.linkedin.com/in/sijaz2000/](https://www.linkedin.com/in/sijaz2000/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
